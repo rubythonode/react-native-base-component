@@ -22,6 +22,10 @@ can use overlay
 https://github.com/imartingraham/react-native-progress
 can use customStyle
 
+### react-native-looped-carousel
+https://github.com/appintheair/react-native-looped-carousel
+may the same as react-native-progress-hud
+
 ## App intro
 ### react-native-app-intro
 https://github.com/FuYaoDe/react-native-app-intro
